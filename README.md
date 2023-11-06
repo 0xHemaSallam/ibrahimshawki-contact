@@ -34,6 +34,6 @@ We encourage developers to contribute to the project and help enhance its functi
 
 ### License
 
-The "Repo Contact Me PHP" project is released under the [MIT License](link-to-license), allowing for both open-source and commercial use.
+The "Repo Contact Me PHP" project is released under the [MIT License](https://www.ibrahim-sallam.me), allowing for both open-source and commercial use.
 
 Feel free to reach out with any questions or suggestions, and let's make website contact forms more accessible and convenient together.
