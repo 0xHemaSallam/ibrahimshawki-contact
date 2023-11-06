@@ -30,7 +30,7 @@ To use "Repo Contact Me PHP," follow these steps:
 
 ### Get Involved
 
-We encourage developers to contribute to the project and help enhance its functionality. You can get involved by forking the repository, making improvements, and submitting pull requests. Please follow the guidelines outlined in the `CONTRIBUTING.md` file.
+We encourage developers to contribute to the project and help enhance its functionality. You can get involved by forking the repository, making improvements, and submitting pull requests.
 
 ### License
 
